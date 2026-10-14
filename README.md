@@ -3,6 +3,8 @@
 Product-minded software engineer building mobile and frontend products.
 BSc Computer Science · MSc Psychology · Software Consultant at Mjølner Informatics.
 
+*My commercial apps are in private repos. Happy to walk through the code on a screen share.*
+
 ## My apps
 I build and run a portfolio of consumer apps, including **NoWaste**, a food inventory app
 with 470,000+ downloads on iOS and Android.
