@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Kasper 👋
 
-<!--
-**kasperhts/kasperhts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product-minded software engineer building mobile and frontend products.
+BSc Computer Science · MSc Psychology · Software Consultant at Mjølner Informatics.
 
-Here are some ideas to get you started:
+## My apps
+I build and run a portfolio of consumer apps, including **NoWaste**, a food inventory app
+with 470,000+ downloads on iOS and Android.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- NoWaste: [[App Store](https://apps.apple.com/us/app/nowaste-food-inventory-list/id926211004)](LINK) · [[Google Play](https://play.google.com/store/apps/details?id=com.khcreations.nowaste)](LINK)
+- All apps: [khcreations.dk](https://www.khcreations.dk)
+
+## Tech
+Flutter · Dart · React · Vue · TypeScript · iOS · Android
+
+## About my repositories
+My commercial apps live in private repositories. I'm happy to do a screen-share
+walkthrough of the codebase in an interview.
+
+[LinkedIn](https://www.linkedin.com/in/khjortsballe)
